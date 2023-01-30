@@ -3,5 +3,7 @@ public class Hellooo {
         System.out.println("Grup 19 bi başka bee !!!!!!");
         System.out.println("Bu grup çok işler yapacak:))");
 
+        System.out.println("hello GitHub");
+
     }
 }
