@@ -4,5 +4,7 @@ public class Hellooo {
 
         System.out.println("Bensiz olsaydı güzel olmazdı :)");
 
+        System.out.println("Ama sizsiz de güzel olmazdı.");
+
     }
 }
